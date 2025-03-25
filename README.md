@@ -17,5 +17,5 @@ This is a simple weather application that fetches real-time weather data using t
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/Alagu123/weather_dashboard.git
+   git clone https://github.com/Alagu123/Weather-Dashboard-Project-2025.git
    cd weather-app
